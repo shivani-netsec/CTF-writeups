@@ -7,8 +7,10 @@ This repository documents my hands-on cybersecurity learning through labs and di
 - TryHackMe (starting)
 - Hack The Box (beginner)
 
-## Status
-Currently building fundamentals. Write-ups will be added as labs are completed.
+## TryHackMe Completed Rooms
+- Windows Fundamentals 1 ✅
+- Windows Fundamentals 2 ✅
+- Windows Fundamentals 3 ✅
 
 
 
