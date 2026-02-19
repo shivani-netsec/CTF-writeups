@@ -12,6 +12,8 @@ This repository documents my hands-on cybersecurity learning through labs and di
 - Windows Fundamentals 2 
 - Windows Fundamentals 3 
 - Linux Fundamental part1
+- Web Applications Basics
+  
 
 
 
