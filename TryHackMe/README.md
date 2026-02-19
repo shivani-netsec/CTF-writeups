@@ -8,6 +8,16 @@ this lab introduced core Windows operating system concepts important for cyberse
 - User accounts and groups
 - System processes
 - Event Viewer basics
+- System configuration tools
+- Task Manager
+- Services management
+- Event Viewer
+- System logs
+- - Windows Registry basics
+- Security settings
+- Defender and Firewall overview
+- Administrative tools
+
 
 ## Tools Used
 - Windows Command Prompt
@@ -25,3 +35,6 @@ this lab introduced core Windows operating system concepts important for cyberse
 - Viewing system information
 - Understanding user privilege levels
 - Identifying system services and processes
+
+## Security Relevance
+Attackers often manipulate registry and security settings. Understanding them helps in incident response and threat detection.
