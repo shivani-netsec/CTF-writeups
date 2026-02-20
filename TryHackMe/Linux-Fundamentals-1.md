@@ -24,6 +24,4 @@
 - How file permissions work (read, write, execute)
 - Navigating and managing files via terminal
 
-## Security Relevance
-Linux is widely used in servers and cybersecurity environments. Understanding file permissions and command-line navigation is essential for penetration testing and system administration.
 
