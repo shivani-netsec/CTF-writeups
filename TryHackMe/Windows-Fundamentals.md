@@ -13,7 +13,7 @@ this lab introduced core Windows operating system concepts important for cyberse
 - Services management
 - Event Viewer
 - System logs
-- - Windows Registry basics
+- Windows Registry basics
 - Security settings
 - Defender and Firewall overview
 - Administrative tools
