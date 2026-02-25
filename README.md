@@ -14,6 +14,7 @@ This repository documents my hands-on cybersecurity learning through labs and di
 - Linux Fundamental part1
 - Web Applications Basics
 - Python Basics
+- Active Directory Basics
   
 
 
