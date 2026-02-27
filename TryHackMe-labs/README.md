@@ -1,8 +1,8 @@
 ##Completed Labs
-- Windows Basics Fundamentals
+- Windows Fundamentals
 - Linux Fundamentals-1
 - Web Application Basics 
 - OWASP Top 10-IAAA
 - Python Basics
-- Active Directory
+- Active Directory Basics
 - Phishing-HiddenEye
