@@ -10,8 +10,9 @@ Learn how to discover hosts and scan open ports using Nmap.
 - Port scanning
 - Service detection
 - Nmap Switches
--Scan Types(TCP connect Scan,SYN Scan,UDP Scan, NULL, FIN and Xmas)
--NSE Scripts(Working with the NSE,Searching for Scripts)
+- Scan Types(TCP connect Scan,SYN Scan,UDP Scan, NULL, FIN and Xmas)
+- NSE Scripts(Working with the NSE,Searching for Scripts)
+- Firewall Evasion
 
 
 ## Commands Used
@@ -30,6 +31,9 @@ nmap -O <target-ip>
 
 ### Aggressive Scan
 nmap -A <target-ip>
+
+### TCP Scan
+namp -sT -p <port> <target-ip>
 
 ## What I Learned
 - How to identify open ports
