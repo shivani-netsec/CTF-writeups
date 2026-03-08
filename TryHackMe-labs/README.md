@@ -9,6 +9,8 @@ Aspiring Cybersecurity Analyst focused on SOC, Network Security, and Threat Dete
 - Web Security (OWASP Top 10)
 - Phishing Analysis
 - Traffic Analysis (Wireshark)
+- Python Basics
+- Nmap
 
 ## Labs Completed
 - Windows Fundamentals
